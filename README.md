@@ -1,4 +1,4 @@
 # PageRank-Text-Summarization-
 
-Use Google founder Larry Page's Page Rank Algorithm : "PAGE RANK" <br>
-And create most relevant summaries for any article 
+Larry Page created Page_Rank for Internet , but we will use it for
+Generating the most relevant summaries !! .
